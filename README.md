@@ -15,8 +15,12 @@ Input: "8474833" , Output: [['VISITED']]
 
 ## File Description:
 
-`utils.py`: some utils to do jobs while initialize variables like digits-chars mappping.
+`utils.py`: some utils to do jobs while initialize variables like digits-chars mapping.
+
 `constants.py`: constants of the question
+
 `tree.py`: simple tree structure implements.
+
 `digits_words_map.py`: main function of this question.
+
 `tests.py`: unit tests which are used to verify the answer.
